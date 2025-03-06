@@ -4,7 +4,7 @@ with open("README.md", "r") as fh:
     long_description = fh.read()
 
 setuptools.setup(
-    name="werkzeug-private-tar",
+    name="werkzeug_private_tar",
     version="2.3.3",
     author="Siddharth Mutkekar",
     author_email="siddharthmutkekar@in.ibm.com",
