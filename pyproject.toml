@@ -4,7 +4,7 @@ build-backend = "setuptools.build_meta"
 
 
 [project]
-name = "werkzeug_private_tar"
+name = "werkzeug-private-tar"
 version = "2.3.3"
 authors = [
   { name="Example Author", email="siddharth.git@gmail.com" },
