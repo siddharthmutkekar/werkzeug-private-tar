@@ -1,0 +1,24 @@
+Metadata-Version: 2.2
+Name: werkzeug_private_tar
+Version: 2.3.3
+Summary: A small example package
+Home-page: https://github.com/siddharthmutkekar/werkzeug-private-tar
+Author: Siddharth Mutkekar
+Author-email: Example Author <siddharth.git@gmail.com>
+Project-URL: Homepage, https://github.com/pypa/sampleproject
+Project-URL: Issues, https://github.com/pypa/sampleproject/issues
+Classifier: Programming Language :: Python :: 3
+Classifier: Operating System :: OS Independent
+Classifier: License :: OSI Approved :: MIT License
+Requires-Python: >=3.8
+Description-Content-Type: text/markdown
+License-File: LICENSE
+Dynamic: author
+Dynamic: home-page
+
+# Python World
+
+This is some example code that is part of a [blog post on using GitHub (or other providers) as a PyPi Server](
+https://medium.freecodecamp.org/how-to-use-github-as-a-pypi-server-1c3b0d07db2).
+
+This repository defines a very simple package that just has a function that returns "world".
